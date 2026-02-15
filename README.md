@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hi I am Rashi Gupta
 🔭 I'm currently working on Cloud-Native Microservices on AWS using Docker & Kubernetes<br>👥 I'm looking to collaborate on Backend Development, REST APIs, and Cloud Infrastructure Projects<br>🤝 I'm looking for help with Advanced ML Pipeline Integration and System Design<br>🌱 I'm currently learning AWS Cloud Architecture, Kubernetes Orchestration & Machine Learning<br>💬 Ask me about FastAPI, PostgreSQL, Python, AWS, Docker & Backend System Design<br>⚡Fun fact I built a Real-Time Stock Prediction Engine during my internship and I love turning complex data into smart, scalable systems!
 
 
